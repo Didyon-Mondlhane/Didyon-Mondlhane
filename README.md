@@ -31,7 +31,7 @@ Windows, Linux
 
 🌟 Projetos
 📚 Sistema de Gestão de Biblioteca (CLI)
-Sistema completo em Java para gerenciar bibliotecas, com controle de usuários, livros e empréstimos.
+Sistema completo em Java para gerenciar bibliotecas, com controle de utilizadores, livros e empréstimos.
 
 📫 Contato
 Estou aberto a colaborações e oportunidades:
