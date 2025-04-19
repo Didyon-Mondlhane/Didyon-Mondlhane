@@ -20,13 +20,13 @@ Java, PHP, C#, JavaScript
 Frameworks:
 Angular, Spring Boot
 
-Bancos de Dados:
+Bases de Dados:
 PostgreSQL, MySQL
 
 Ferramentas:
 Git, GitHub
 
-Sistemas Operacionais:
+Sistemas Operativos:
 Windows, Linux
 
 🌟 Projetos
