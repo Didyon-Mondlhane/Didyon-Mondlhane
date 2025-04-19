@@ -3,7 +3,7 @@
 ```java
 public class AboutMe {
     public static void main(String[] args) {
-        System.out.println("Transformando café em código desde 2021 ☕➝💻");
+        System.out.println("Transformando café em código desde 2022 ☕➝💻");
     }
 }
 👨‍💻 Sobre Mim
