@@ -23,17 +23,17 @@ Angular, Spring Boot
 Bases de Dados:
 PostgreSQL, MySQL
 
-Ferramentas:
+Ferramentas de Versionamento de Código:
 Git, GitHub
 
 Sistemas Operativos:
 Windows, Linux
 
-🌟 Projetos
+🌟 Projectos
 📚 Sistema de Gestão de Biblioteca (CLI)
 Sistema completo em Java para gerenciar bibliotecas, com controle de utilizadores, livros e empréstimos.
 
-📫 Contato
+📫 Contacto
 Estou aberto a colaborações e oportunidades:
 
 📧 Email: mondlhanedj5@gmail.com
