@@ -18,7 +18,7 @@ Linguagens:
 Java, PHP, C#, JavaScript
 
 Frameworks:
-Angular, Spring Boot
+Angular, Spring Boot, Laravel
 
 Bases de Dados:
 PostgreSQL, MySQL
